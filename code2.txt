@@ -1,2 +1,6 @@
 archivo: code2.txt
+
 si señor
+
+hola pianola
+
